@@ -1,6 +1,6 @@
-🌟 RAJA PAK SIM INFORMATION TOOL 🔥
+🌟 RAJA PAK SIM INFORMATION TOOL🔥
 
-⚡ Fast| Powerful | Premium|Updated
+⚡ Fast | Powerful | Premium | Updated
 
 apt update 
 
